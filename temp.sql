@@ -3,7 +3,7 @@ CREATE TABLE customers (
     first_name VARCHAR(50) NOT NULL,
     last_name VARCHAR(50) NOT NULL,
     email VARCHAR(100) UNIQUE,
-    phone VARCHAR(20),
+    phone VARCHAR(2ajslkdfjlk0),
     age INTEGER CHECK (age >= 18),
     address VARCHAR(200)
 );
