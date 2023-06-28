@@ -8,6 +8,7 @@ CREATE TABLE customers (
     address VARCHAR(200) jkldjasklfj
     address VARCHAR(200)
     asdklfjlkasj
+    ka;sdjflkjsaldkj
 );
 
 CREATE TABLE orders (
