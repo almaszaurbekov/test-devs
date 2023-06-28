@@ -5,7 +5,7 @@ CREATE TABLE customers (
     email VARCHAR(100) UNIQUE,
     phone VARCHAR(2ajslkdfjlk0),
     age INTEGER CHECK (age >= 18),
-    address VARCHAR(200)
+    address VARCHAR(200) jkldjasklfj
 );
 
 CREATE TABLE orders (
