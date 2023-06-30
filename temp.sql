@@ -6,7 +6,7 @@ CREATE TABLE customers (
     phone VARCHAR(2ajslkdfjlk0),
     age INTEGER CHECK (age >= 18),
     address VARCHAR(200) jkldjasklfj
-    address VARCHAR(200)
+    address VARCHAR(200)jadsklfjlkas
     asdklfjlkasj
     ka;sdjflkjsaldkj
 );
